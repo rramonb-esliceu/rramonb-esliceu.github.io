@@ -1,5 +1,5 @@
 # TREBALLS
 ## Apunts processos
-[AQUÍ](sistemes/processos)
+[AQUÍ](processos/00_Introduccio.md)
 
 >[Torna a l'inici](/)
