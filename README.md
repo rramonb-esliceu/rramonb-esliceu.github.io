@@ -1,33 +1,11 @@
-# rramonb-esliceu
-# Encapçalament 1
-## Encapçalament 2
-### Encapçalament 3
-#### Encapçalament 4
-##### Encapçalament 5
-###### Encapçalament 6
+# Bienvenidos a la web de rramonb
 
-**Texte en negreta**
-*Texte en cursiva*
-***Texte en negreta i cursiva***
- #### LLista
- 1. Primera cosa.
->Una cita
- 2. Segona cosa
-  link adjuntat com [GOOGLE](https://google.com).
-> > I una doble cita
-<table>
-  <tr>
-    <th>Nome</th>
-    <th>Llinatge</th>
-    <th>Edat</th>
-  </tr>
-  <tr>
-    <td>Rubén</td>
-    <td>Ramón</td>
-    <td>16</td>
-  </tr>
-</table>
+## Módulos
+1. ### Sistemes operatius monoestació
+>[Treballs de sistemes](sistemes/README.md)
+>>[Processos](sistemes/processos/README.md)
 
-## Sistemes
-- [Sistemes](https://github.com/rramonb-esliceu/rramonb-esliceu/tree/master/sistemes)
-  - [Processos](https://github.com/rramonb-esliceu/rramonb-esliceu/tree/master/sistemes/processos)
+2. ### Formació i Orientació Laboral
+3. ### Muntatge i manteniment d'equips
+4. ### Aplicacions ofimàtiques
+5. ### Xarxes locals
