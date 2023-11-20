@@ -12,6 +12,7 @@
 > - [Torna a l'inici](/)
 > - [Torna a sistemes](/sistemes/)
 > - [Torna enrere](/sistemes/processos/)
+
 ## Introducció
 La gestió de processos constitueix l'espina dorsal dels sistemes operatius, proporcionant un marc fonamental per a la supervisió i control eficient de les diverses tasques que s'executen en un sistema. Aquesta disciplina abasta una àmplia gamma d'operacions i funcionalitats que permeten al sistema operatiu organitzar i optimitzar l'execució dels processos.
 ### Definició de Procés
