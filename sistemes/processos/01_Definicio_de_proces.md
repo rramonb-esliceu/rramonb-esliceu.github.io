@@ -5,6 +5,6 @@ Un procés, en el context d'un sistema operatiu, representa l'execució d'un pro
 ## 1.2. Relació entre Programari i Processos
 Un programa pot ser executat per diversos processos. La creació d'un procés implica l'assignació de recursos del sistema, com ara memòria i temps de CPU, al programa corresponent.
 
- [<---](00_Introduccio.md)
+> [<---](00_Introduccio.md)
  
-[--->](02_Tasques_Fonamentals_dels_Sistemes_Operatius.md)
+> [--->](02_Tasques_Fonamentals_dels_Sistemes_Operatius.md)
