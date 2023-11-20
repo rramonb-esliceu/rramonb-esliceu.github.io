@@ -1,5 +1,5 @@
 # 2. Tasques Fonamentals dels Sistemes Operatius:
-[INDEX](00_Introduccio.md))
+[INDEX](00_Introduccio.md)
 ## 2.1. Gestió de Processos (E/S)
 La gestió de processos implica diverses operacions clau, com la creació, destrucció, bloqueig i despertar de processos. Aquestes operacions són essencials per mantenir un equilibri en l'execució de múltiples tasques en el sistema operatiu.
 ## 2.2. Gestió de la Memòria
