@@ -5,4 +5,3 @@ En resum, la gestió de processos és un component crític dels sistemes operati
 > [<---](07_Informacio_Necessaria_per_a_la_Gestio_del_Proces.md)
  
 > - [Torna a l'inici](/)
-> - [Torna a sistemes](/sistemes/README.md)
