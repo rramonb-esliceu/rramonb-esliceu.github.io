@@ -1,5 +1,5 @@
 # 6. Planificació de Processos:
-[INDEX](https://github.com/rramonb-esliceu/rramonb-esliceu/blob/master/sistemes/processos/00_Introduccio.md)
+[INDEX](00_Introduccio.md)
 ## 6.1. Funcions del Planificador
 El planificador determina quin procés s'executa en cada moment, optimitzant el rendiment del sistema.
 ## 6.2. Algorismes de Planificació

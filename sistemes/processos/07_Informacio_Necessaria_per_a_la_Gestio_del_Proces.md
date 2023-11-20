@@ -1,5 +1,5 @@
 # 7. Informació Necessària per a la Gestió del Procés:
-[INDEX](https://github.com/rramonb-esliceu/rramonb-esliceu/blob/master/sistemes/processos/00_Introduccio.md)
+[INDEX](00_Introduccio.md)
 ## 7.1. PID (Identificador del Procés)
 Un número únic que identifica cada procés al sistema.
 ## 7.2. Estat del Procés

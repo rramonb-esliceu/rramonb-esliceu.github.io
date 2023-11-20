@@ -1,5 +1,5 @@
 # 3. Estats d'un Procés:
-[INDEX](https://github.com/rramonb-esliceu/rramonb-esliceu/blob/master/sistemes/processos/00_Introduccio.md)
+[INDEX](00_Introduccio.md)
 ## 3.1. Estats Actius
 - **Execució:** El procés està actualment sent executat per la CPU.
 - **Preparat:** El procés està llest per ser executat però està esperant el seu torn.

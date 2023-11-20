@@ -1,5 +1,5 @@
 # 1. Definició de Procés:
-[INDEX](https://github.com/rramonb-esliceu/rramonb-esliceu/blob/master/sistemes/processos/00_Introduccio.md)
+[INDEX](00_Introduccio.md)
 ## 1.1. Concepte de Tasques i Instruccions
 Un procés, en el context d'un sistema operatiu, representa l'execució d'un programa. Aquest programa pot consistir en una sèrie de tasques o instruccions que el sistema operatiu coordina i controla per assolir un objectiu específic.
 ## 1.2. Relació entre Programari i Processos
