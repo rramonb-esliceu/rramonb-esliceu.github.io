@@ -12,3 +12,7 @@ Contenen els valors dels registres de la unitat central de processament necessar
 Recopilen dades sobre l'ús del procés, com temps d'execució, temps d'espera, etc.
 ## 7.6. Informació de Planificació
 Conté dades rellevants per a la planificació del process, com la prioritat assignada.
+
+> [<---](06_Planificacio_de_processos.md)
+ 
+> [--->](08_Conclusio.md)

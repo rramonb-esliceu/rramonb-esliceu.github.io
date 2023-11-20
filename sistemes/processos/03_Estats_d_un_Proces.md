@@ -9,3 +9,7 @@
 - **Suspès Preparat:** El procés està aturat però llest per ser reprendre.
 ## 3.3. Imatge estats d'un process
 !["transcició processos"](captura.png)
+
+> [<---](02_Tasques_Fonamentals_dels_Sistemes_Operatius.md)
+ 
+> [--->](04_Operacions_amb_Processos.md)

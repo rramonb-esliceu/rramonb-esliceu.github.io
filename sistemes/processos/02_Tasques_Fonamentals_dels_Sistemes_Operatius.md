@@ -8,3 +8,7 @@ La gestió de la memòria es dedica a assignar i alliberar la memòria necessàr
 Controlar l'accés i l'organització dels fitxers al sistema és crucial per garantir la integritat i l'eficiència de l'emmagatzematge de dades.
 ## 2.4. Interfície d'Usuari
 La interfície d'usuari proporciona un mitjà perquè els usuaris interactuïn amb el sistema operatiu. Això pot incloure interfícies gràfiques d'usuari (GUI) o interfícies de línia de comandes (CLI), facilitant la comunicació i el control del sistema.
+
+> [<---](01_Definicio_de_proces.md)
+ 
+> [--->](03_Estats_d_un_Proces.md)
