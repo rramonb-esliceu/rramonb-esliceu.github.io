@@ -1,6 +1,6 @@
-# Bienvenidos a la web de rramonb
+# Benvinguts a la web de rramonb
 
-## Módulos
+## Móduls
 1. ### Sistemes operatius monoestació
 >[Treballs de sistemes](sistemes/README.md)
 >>[Processos](sistemes/processos/README.md)
