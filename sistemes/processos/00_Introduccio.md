@@ -9,9 +9,10 @@
 6. [Planificaió de processos](06_Planificacio_de_processos.md)
 7. [Informació necessaria per a la Gestió del procés](07_Informacio_Necessaria_per_a_la_Gestio_del_Proces.md)
 8. [Conclusió](08_Conclusio.md)
-> - [Torna a l'inici](/)
-> - [Torna a sistemes](/sistemes/)
-> - [Torna enrere](/sistemes/processos/)
+
+- [Torna a l'inici](/)
+- [Torna a sistemes](/sistemes/)
+- [Torna enrere](/sistemes/processos/)
 
 ## Introducció
 La gestió de processos constitueix l'espina dorsal dels sistemes operatius, proporcionant un marc fonamental per a la supervisió i control eficient de les diverses tasques que s'executen en un sistema. Aquesta disciplina abasta una àmplia gamma d'operacions i funcionalitats que permeten al sistema operatiu organitzar i optimitzar l'execució dels processos.
